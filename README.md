@@ -1,5 +1,5 @@
-"# sql-project" 
-This a custom implementation of solutions for the SQL tasks found (sqlzoo)[https://sqlzoo.net/wiki/SQL_Tutorial] webpages.
+# sql-project
+This is a custom implementation of solutions for the SQL tasks found (sqlzoo)[https://sqlzoo.net/wiki/SQL_Tutorial] webpages.
 
 ## Testing
 To test each of the sql queries,
@@ -11,7 +11,7 @@ To test each of the sql queries,
 - Then click on the `Submit SQL` button.
 
 ## PREVIEW OF A SUCCESFUL TEST CASE
-    ![image](https://user-images.githubusercontent.com/46686100/80003579-24d55b80-84b9-11ea-8b70-37dbd5d19f30.png)
+  ![image](https://user-images.githubusercontent.com/46686100/80003579-24d55b80-84b9-11ea-8b70-37dbd5d19f30.png)
 
 ## Authors
 
